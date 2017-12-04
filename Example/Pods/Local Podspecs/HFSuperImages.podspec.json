@@ -1,0 +1,22 @@
+{
+  "name": "HFSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of HFSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mjohnsonpqa/HFSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mjohnsonpqa": "michelle.johnson@pqa.ca"
+  },
+  "source": {
+    "git": "https://github.com/mjohnsonpqa/HFSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HFSuperImages/Classes/**/*"
+}
